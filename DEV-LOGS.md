@@ -88,16 +88,22 @@
 - Added a function to fetch the author of a post
     - Displaying the author on the feed & post page
 
+---
+
 ## Nov. 8th, 2024
 
 - Added a page for authors
     - Ideally, clicking the author will lead to all their posts
     - The authors in the future should be displayed with hearts to indicate how many hearts they've gotten on posts, and maybe views
 
+---
+
 ## Nov. 9th, 2024
 - The author page now includes all their posts
 - Created a `/tags` route & created some tags
     - Will be able to browse posts by tag
+
+---
 
 ## Nov. 10th, 2024
 - Created components for tags
