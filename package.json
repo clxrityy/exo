@@ -2,6 +2,13 @@
   "name": "exo",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": {
+    "name": "MJ Anglin",
+    "url": "https://mjanglin.com",
+    "email": "contact@mjanglin.com",
+    "github": "https://github.com/clxrityy"
+  },
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
