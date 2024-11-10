@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# EXO <img src="/public/apple-touch-icon.png" width="27.5px" alt="exo" />
 
-## Getting Started
+A new-age blog site that allows for full customability, component creation, and a unique way to share content.
 
-First, run the development server:
+> Built with [Nextjs](https://nextjs.org), [Sanity.io](https://sanity.io), and deployed with [Vercel](https://vercel.com).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ##### Read about the coding journey: **[Dev Logs](/DEV-LOGS.md)**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## About Exo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+With typical websites that allow for sharable content, every platform has it's own unique way of displaying posts.
 
-## Learn More
+For the most part, they are all limited to their static input:
+- Image(s)
+- Text
+- Formatting
 
-To learn more about Next.js, take a look at the following resources:
+The goal of exo is to provide better means for customization and displaying content through tools and/or components the user creates.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
